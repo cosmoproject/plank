@@ -1,4 +1,4 @@
-update=su. 23. okt. 2016 kl. 17.39 +0200
+update=su. 22. jan. 2017 kl. 17.41 +0100
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=contrib
 LibName30=valves
 LibName31=max7313
 LibName32=ads1015
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
